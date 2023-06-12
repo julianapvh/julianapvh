@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="fundo.jpg" alt="Fundo personalizado">
+</div>
+
 ### Olá 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:

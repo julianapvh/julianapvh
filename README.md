@@ -13,6 +13,4 @@ Bem-vindo ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
 
 Ou pelo meu e-mail [![Enviar e-mail](https://img.shields.io/badge/Enviar%20e-mail-%20✉-blue?style=for-the-badge)](mailto:julianacore2@gmail.com)
 
-- 😄 Pronomes: Ela/Dela
-
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou se quiser discutir possíveis colaborações. Vamos construir algo incrível juntos!

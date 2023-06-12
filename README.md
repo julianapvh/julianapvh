@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="fundo.jpg" alt="Fundo personalizado">
-</div>
+![Fundo](fundo.jpg)
+<link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋
 

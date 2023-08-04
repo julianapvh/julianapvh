@@ -1,4 +1,4 @@
-![Foto](Juliana Gomes.jpg)
+![Foto](julianapvh/Juliana Gomes.jpg)
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋

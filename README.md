@@ -1,4 +1,4 @@
-![IMG][([https://imgur.com/C0diywN](https://imgur.com/C0diywN))](https://imgur.com/a/7Cs276E)
+![](Juliana Gomes.jpg)
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋

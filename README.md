@@ -1,4 +1,4 @@
-![](https://imgur.com/C0diywN)
+![IMG](https://imgur.com/C0diywN)
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋

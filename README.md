@@ -1,5 +1,4 @@
-![Foto](julianapvh/Juliana Gomes.jpg)
-![alt text](julianapvh/fundo.jpg)
+![Foto]([julianapvh/Juliana Gomes.jpg](https://github.com/julianapvh/julianapvh/blob/main/Juliana%20Gomes.jpg))
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋

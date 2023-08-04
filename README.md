@@ -1,4 +1,4 @@
-![](Juliana Gomes.jpg)
+![Foto](Juliana Gomes.jpg)
 <link rel="stylesheet" type="text/css" href="style.css">
 
 ### Olá 👋

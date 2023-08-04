@@ -3,7 +3,7 @@
 
 ### Olá 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
+Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou trabalhando em projetos relacionados ao Python.
 - 🌱 Estou sempre buscando aprender mais sobre Python e aprimorar minhas habilidades nessa linguagem.

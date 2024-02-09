@@ -18,5 +18,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mi
   <img src="https://github.com/julianapvh/julianapvh/blob/main/LI-Logo.png" alt="LinkedIn" width="200" height="50">
 </a>
 
+/n
+
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou se quiser discutir possíveis colaborações. Vamos construir algo incrível juntos!

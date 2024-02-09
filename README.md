@@ -14,11 +14,11 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mi
 </a>
 
 - Ou clique na imagem abaixo para ir até meu LinkedIn
-- <a href="https://www.linkedin.com/in/julianapvh/">
+ <a href="https://www.linkedin.com/in/julianapvh/">
   <img src="https://github.com/julianapvh/julianapvh/blob/main/LI-Logo.png" alt="LinkedIn" width="200" height="50">
 </a>
 
-/n
+
 
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou se quiser discutir possíveis colaborações. Vamos construir algo incrível juntos!

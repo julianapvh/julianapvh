@@ -19,5 +19,20 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mi
     <img src="https://github.com/julianapvh/julianapvh/blob/main/LI-Logo.png" alt="LinkedIn" width="150" height="auto">
   </a>
 </div>
+<div>### Meu Sistema de Agendamentos
+
+Atualmente, estou dedicando grande parte do meu tempo ao desenvolvimento do meu Trabalho de Conclusão de Curso (TCC), que consiste em um sistema de agendamentos. Este sistema tem como objetivo facilitar o processo de agendamento de equipamentos, serviços ou outros recursos em ambientes como escolas, empresas ou centros de pesquisa.
+
+Algumas características do meu sistema de agendamentos incluem:
+
+- Interface amigável e intuitiva para os usuários agendarem facilmente seus recursos necessários.
+- Funcionalidades avançadas de gerenciamento de disponibilidade, permitindo que os administradores visualizem e controlem os agendamentos de forma eficiente.
+- Notificações automáticas para lembrar os usuários de seus agendamentos e atualizá-los sobre quaisquer alterações.
+- Segurança aprimorada para proteger os dados sensíveis dos usuários e garantir a integridade do sistema.
+
+Estou comprometida em criar um sistema robusto, confiável e altamente funcional que atenda às necessidades dos usuários e ajude a otimizar os processos de agendamento em diferentes contextos. Estou sempre aberta a feedbacks e sugestões para aprimorar ainda mais o meu sistema e torná-lo uma solução eficaz para diversas aplicações.
+
+Se você tiver interesse em saber mais sobre o meu sistema de agendamentos ou desejar colaborar de alguma forma, não hesite em entrar em contato comigo. Estou animada para compartilhar mais detalhes e discutir possíveis oportunidades de colaboração!
+</div>
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou se quiser discutir possíveis colaborações. Vamos construir algo incrível juntos!

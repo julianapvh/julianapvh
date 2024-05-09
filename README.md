@@ -1,14 +1,9 @@
-![Foto](https://github.com/julianapvh/julianapvh/blob/main/Juliana%20Gomes.jpg)
-<link rel="stylesheet" type="text/css" href="style.css">
-
 ### Olá 👋
 
 Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
 
-- 🔭 Atualmente estou trabalhando em projetos relacionados ao Python.
+- 🔭 Atualmente estou trabalhando em projetos relacionados ao Python, incluindo o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC) que é um sistema de agendamentos.
 - 🌱 Estou sempre buscando aprender mais sobre Python e aprimorar minhas habilidades nessa linguagem.
-- 👯 Estou interessada em colaborar em projetos acadêmicos e trabalhar em equipe para desenvolver soluções inovadoras.
-- 🤔 Estou procurando ajuda com projetos de chatbots e integração com a API do WhatsApp. Caso você tenha conhecimento nessa área, adoraria receber sua orientação e contribuição.
 - 📫 Você pode entrar em contato comigo através do WhatsApp: 
 
 <div>

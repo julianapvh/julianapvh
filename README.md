@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mi
 - Ou clique na imagem abaixo para ir até meu LinkedIn:
 
 <div>
-  <a href="https://www.linkedin.com/in/julianapvh/">
+  <a href="https://www.linkedin.com/in/juliana-exe/">
     <img src="https://github.com/julianapvh/julianapvh/blob/main/LI-Logo.png" alt="LinkedIn" width="150" height="auto">
   </a>
 </div>
